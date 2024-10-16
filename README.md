@@ -379,4 +379,4 @@ int main(int argc, char **argv)
 ![image](https://github.com/user-attachments/assets/e4ec0faa-2e65-45c7-9e07-a9990594e4c7)
 
 ## RESULT:
-Thus the program has been executed by unrolling by 8 and unrolling by 16. It is observed that _________ has executed with less elapsed time than _____________ with blocks_____,______.
+Thus the program has been executed by unrolling by 8 and unrolling by 16. It is observed that 16 has executed with less elapsed time than 8 with blocks 2048 , 4096.
